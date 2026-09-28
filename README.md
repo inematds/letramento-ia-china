@@ -1,5 +1,7 @@
 # Letramento em IA na China
 
+**🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
+
 Levantamento (set/2026) do que a China está fazendo em letramento em IA — escolas, universidades, trabalhadores, idosos, servidores e pequenas empresas — com regras de uso, leitura crítica, comparação com os EUA e lições para o Brasil.
 
 - Página: https://inematds.github.io/letramento-ia-china/guia/
